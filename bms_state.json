@@ -24,19 +24,19 @@
       "price": "99.00",
       "status": "3"
     },
-    "PMPW|73475|20260929|PRIME ROWS": {
-      "venue": "INOX Megaplex Phoenix Mall of the Millennium Wakad",
-      "time": "08:50 PM",
-      "date": "20260929",
-      "cat": "PRIME ROWS",
-      "price": "149.00",
-      "status": "3"
-    },
     "PMPW|73475|20260929|CLASSIC PLUS ROWS": {
       "venue": "INOX Megaplex Phoenix Mall of the Millennium Wakad",
       "time": "08:50 PM",
       "date": "20260929",
       "cat": "CLASSIC PLUS ROWS",
+      "price": "149.00",
+      "status": "3"
+    },
+    "PMPW|73475|20260929|PRIME ROWS": {
+      "venue": "INOX Megaplex Phoenix Mall of the Millennium Wakad",
+      "time": "08:50 PM",
+      "date": "20260929",
+      "cat": "PRIME ROWS",
       "price": "149.00",
       "status": "3"
     },
@@ -104,14 +104,6 @@
       "price": "249.00",
       "status": "3"
     },
-    "PIPO|36410|20260929|CLASSIC ROWS": {
-      "venue": "PVR: Icon, The Pavillion Pune",
-      "time": "11:35 PM",
-      "date": "20260929",
-      "cat": "CLASSIC ROWS",
-      "price": "149.00",
-      "status": "3"
-    },
     "PIPO|36410|20260929|PRIME PLUS ROWS": {
       "venue": "PVR: Icon, The Pavillion Pune",
       "time": "11:35 PM",
@@ -125,6 +117,14 @@
       "time": "11:35 PM",
       "date": "20260929",
       "cat": "PRIME ROWS",
+      "price": "149.00",
+      "status": "3"
+    },
+    "PIPO|36410|20260929|CLASSIC ROWS": {
+      "venue": "PVR: Icon, The Pavillion Pune",
+      "time": "11:35 PM",
+      "date": "20260929",
+      "cat": "CLASSIC ROWS",
       "price": "149.00",
       "status": "3"
     },
@@ -224,6 +224,14 @@
       "price": "399.00",
       "status": "3"
     },
+    "INPN|141745|20260929|PRIME PLUS ROWS": {
+      "venue": "INOX: Bund Garden Road",
+      "time": "09:10 AM",
+      "date": "20260929",
+      "cat": "PRIME PLUS ROWS",
+      "price": "99.00",
+      "status": "3"
+    },
     "INPN|141745|20260929|PRIME ROWS": {
       "venue": "INOX: Bund Garden Road",
       "time": "09:10 AM",
@@ -240,9 +248,9 @@
       "price": "99.00",
       "status": "3"
     },
-    "INPN|141745|20260929|PRIME PLUS ROWS": {
+    "INPN|141771|20260929|PRIME PLUS ROWS": {
       "venue": "INOX: Bund Garden Road",
-      "time": "09:10 AM",
+      "time": "11:00 PM",
       "date": "20260929",
       "cat": "PRIME PLUS ROWS",
       "price": "99.00",
@@ -261,14 +269,6 @@
       "time": "11:00 PM",
       "date": "20260929",
       "cat": "CLASSIC ROWS",
-      "price": "99.00",
-      "status": "3"
-    },
-    "INPN|141771|20260929|PRIME PLUS ROWS": {
-      "venue": "INOX: Bund Garden Road",
-      "time": "11:00 PM",
-      "date": "20260929",
-      "cat": "PRIME PLUS ROWS",
       "price": "99.00",
       "status": "3"
     }
