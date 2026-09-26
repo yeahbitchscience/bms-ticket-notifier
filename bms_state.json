@@ -1,11 +1,180 @@
 {
-  "shows": {},
+  "shows": {
+    "ESEM|66885|20260929|RECLINER": {
+      "venue": "E-SQUARE: Xion Mall, Hinjawadi",
+      "time": "11:15 PM",
+      "date": "20260929",
+      "cat": "RECLINER",
+      "price": "200.00",
+      "status": "3"
+    },
+    "ESEM|66885|20260929|SOFA PLATINUM": {
+      "venue": "E-SQUARE: Xion Mall, Hinjawadi",
+      "time": "11:15 PM",
+      "date": "20260929",
+      "cat": "SOFA PLATINUM",
+      "price": "140.00",
+      "status": "3"
+    },
+    "ESEM|66885|20260929|SOFA GOLD": {
+      "venue": "E-SQUARE: Xion Mall, Hinjawadi",
+      "time": "11:15 PM",
+      "date": "20260929",
+      "cat": "SOFA GOLD",
+      "price": "140.00",
+      "status": "3"
+    },
+    "PIPO|36410|20260929|RECLINER ROWS": {
+      "venue": "PVR: Icon, The Pavillion Pune",
+      "time": "11:35 PM",
+      "date": "20260929",
+      "cat": "RECLINER ROWS",
+      "price": "249.00",
+      "status": "3"
+    },
+    "PIPO|36410|20260929|PRIME ROWS": {
+      "venue": "PVR: Icon, The Pavillion Pune",
+      "time": "11:35 PM",
+      "date": "20260929",
+      "cat": "PRIME ROWS",
+      "price": "149.00",
+      "status": "3"
+    },
+    "PIPO|36410|20260929|CLASSIC ROWS": {
+      "venue": "PVR: Icon, The Pavillion Pune",
+      "time": "11:35 PM",
+      "date": "20260929",
+      "cat": "CLASSIC ROWS",
+      "price": "149.00",
+      "status": "3"
+    },
+    "PIPO|36410|20260929|PRIME PLUS ROWS": {
+      "venue": "PVR: Icon, The Pavillion Pune",
+      "time": "11:35 PM",
+      "date": "20260929",
+      "cat": "PRIME PLUS ROWS",
+      "price": "149.00",
+      "status": "3"
+    },
+    "PGHM|47623|20260929|RECLINER ROWS": {
+      "venue": "PVR: Grand Highstreet Mall, Hinjawadi",
+      "time": "03:00 PM",
+      "date": "20260929",
+      "cat": "RECLINER ROWS",
+      "price": "199.00",
+      "status": "3"
+    },
+    "PGHM|47623|20260929|EXTRA LEGROOM ROWS": {
+      "venue": "PVR: Grand Highstreet Mall, Hinjawadi",
+      "time": "03:00 PM",
+      "date": "20260929",
+      "cat": "EXTRA LEGROOM ROWS",
+      "price": "99.00",
+      "status": "3"
+    },
+    "PGHM|47623|20260929|PRIME ROWS": {
+      "venue": "PVR: Grand Highstreet Mall, Hinjawadi",
+      "time": "03:00 PM",
+      "date": "20260929",
+      "cat": "PRIME ROWS",
+      "price": "99.00",
+      "status": "3"
+    },
+    "PGHM|47623|20260929|CLASSIC ROWS": {
+      "venue": "PVR: Grand Highstreet Mall, Hinjawadi",
+      "time": "03:00 PM",
+      "date": "20260929",
+      "cat": "CLASSIC ROWS",
+      "price": "99.00",
+      "status": "3"
+    },
+    "PGHM|47623|20260929|PRIME PLUS ROWS": {
+      "venue": "PVR: Grand Highstreet Mall, Hinjawadi",
+      "time": "03:00 PM",
+      "date": "20260929",
+      "cat": "PRIME PLUS ROWS",
+      "price": "99.00",
+      "status": "3"
+    },
+    "PGHM|47626|20260929|RECLINER ROWS": {
+      "venue": "PVR: Grand Highstreet Mall, Hinjawadi",
+      "time": "11:25 PM",
+      "date": "20260929",
+      "cat": "RECLINER ROWS",
+      "price": "299.00",
+      "status": "3"
+    },
+    "PGHM|47626|20260929|PRIME PLUS ROWS": {
+      "venue": "PVR: Grand Highstreet Mall, Hinjawadi",
+      "time": "11:25 PM",
+      "date": "20260929",
+      "cat": "PRIME PLUS ROWS",
+      "price": "149.00",
+      "status": "3"
+    },
+    "PGHM|47626|20260929|EXTRA LEGROOM ROWS": {
+      "venue": "PVR: Grand Highstreet Mall, Hinjawadi",
+      "time": "11:25 PM",
+      "date": "20260929",
+      "cat": "EXTRA LEGROOM ROWS",
+      "price": "149.00",
+      "status": "3"
+    },
+    "PGHM|47626|20260929|PRIME ROWS": {
+      "venue": "PVR: Grand Highstreet Mall, Hinjawadi",
+      "time": "11:25 PM",
+      "date": "20260929",
+      "cat": "PRIME ROWS",
+      "price": "149.00",
+      "status": "3"
+    },
+    "PGHM|47626|20260929|CLASSIC ROWS": {
+      "venue": "PVR: Grand Highstreet Mall, Hinjawadi",
+      "time": "11:25 PM",
+      "date": "20260929",
+      "cat": "CLASSIC ROWS",
+      "price": "99.00",
+      "status": "3"
+    },
+    "PDCP|35943|20260929|RECLINERS PRIME": {
+      "venue": "PVR: Directors Cut, KOPA, Pune",
+      "time": "01:50 PM",
+      "date": "20260929",
+      "cat": "RECLINERS PRIME",
+      "price": "399.00",
+      "status": "3"
+    },
+    "PDCP|35943|20260929|RECLINERS": {
+      "venue": "PVR: Directors Cut, KOPA, Pune",
+      "time": "01:50 PM",
+      "date": "20260929",
+      "cat": "RECLINERS",
+      "price": "399.00",
+      "status": "3"
+    },
+    "PDCP|35928|20260929|RECLINERS": {
+      "venue": "PVR: Directors Cut, KOPA, Pune",
+      "time": "11:15 PM",
+      "date": "20260929",
+      "cat": "RECLINERS",
+      "price": "399.00",
+      "status": "3"
+    },
+    "PDCP|35928|20260929|RECLINERS PRIME": {
+      "venue": "PVR: Directors Cut, KOPA, Pune",
+      "time": "11:15 PM",
+      "date": "20260929",
+      "cat": "RECLINERS PRIME",
+      "price": "399.00",
+      "status": "3"
+    }
+  },
   "dates": {
-    "20260926": "BOOKABLE",
+    "20260926": "AVAILABLE",
     "20260927": "AVAILABLE",
-    "20260928": "NOT_OPEN",
-    "20260929": "NOT_OPEN",
-    "20260930": "NOT_OPEN",
+    "20260928": "AVAILABLE",
+    "20260929": "BOOKABLE",
+    "20260930": "AVAILABLE",
     "20261001": "NOT_OPEN",
     "20261002": "NOT_OPEN"
   }
