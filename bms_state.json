@@ -48,19 +48,19 @@
       "price": "99.00",
       "status": "3"
     },
-    "PMPW|73469|20260929|PRIME ROWS": {
-      "venue": "INOX Megaplex Phoenix Mall of the Millennium Wakad",
-      "time": "11:55 PM",
-      "date": "20260929",
-      "cat": "PRIME ROWS",
-      "price": "149.00",
-      "status": "3"
-    },
     "PMPW|73469|20260929|CLASSIC PLUS ROWS": {
       "venue": "INOX Megaplex Phoenix Mall of the Millennium Wakad",
       "time": "11:55 PM",
       "date": "20260929",
       "cat": "CLASSIC PLUS ROWS",
+      "price": "149.00",
+      "status": "3"
+    },
+    "PMPW|73469|20260929|PRIME ROWS": {
+      "venue": "INOX Megaplex Phoenix Mall of the Millennium Wakad",
+      "time": "11:55 PM",
+      "date": "20260929",
+      "cat": "PRIME ROWS",
       "price": "149.00",
       "status": "3"
     },
@@ -88,6 +88,14 @@
       "price": "199.00",
       "status": "3"
     },
+    "PCMZ|46292|20260929|PRIME ROWS": {
+      "venue": "PVR: Phoenix Market City, Pune",
+      "time": "09:00 AM",
+      "date": "20260929",
+      "cat": "PRIME ROWS",
+      "price": "99.00",
+      "status": "3"
+    },
     "PCMZ|46292|20260929|CLASSIC ROWS": {
       "venue": "PVR: Phoenix Market City, Pune",
       "time": "09:00 AM",
@@ -101,14 +109,6 @@
       "time": "09:00 AM",
       "date": "20260929",
       "cat": "CLASSIC PLUS ROWS",
-      "price": "99.00",
-      "status": "3"
-    },
-    "PCMZ|46292|20260929|PRIME ROWS": {
-      "venue": "PVR: Phoenix Market City, Pune",
-      "time": "09:00 AM",
-      "date": "20260929",
-      "cat": "PRIME ROWS",
       "price": "99.00",
       "status": "3"
     },
@@ -208,6 +208,30 @@
       "price": "99.00",
       "status": "3"
     },
+    "CPKT|9032|20260929|ROYAL SOFA": {
+      "venue": "City Pride: Kothrud",
+      "time": "09:00 PM",
+      "date": "20260929",
+      "cat": "ROYAL SOFA",
+      "price": "230.00",
+      "status": "3"
+    },
+    "CPKT|9032|20260929|ROYAL GOLD": {
+      "venue": "City Pride: Kothrud",
+      "time": "09:00 PM",
+      "date": "20260929",
+      "cat": "ROYAL GOLD",
+      "price": "180.00",
+      "status": "3"
+    },
+    "CPKT|9032|20260929|ROYAL SILVER": {
+      "venue": "City Pride: Kothrud",
+      "time": "09:00 PM",
+      "date": "20260929",
+      "cat": "ROYAL SILVER",
+      "price": "160.00",
+      "status": "3"
+    },
     "ESEM|66885|20260929|RECLINER": {
       "venue": "E-SQUARE: Xion Mall, Hinjawadi",
       "time": "11:15 PM",
@@ -272,14 +296,6 @@
       "price": "249.00",
       "status": "3"
     },
-    "PIPO|36410|20260929|PRIME ROWS": {
-      "venue": "PVR: Icon, The Pavillion Pune",
-      "time": "11:35 PM",
-      "date": "20260929",
-      "cat": "PRIME ROWS",
-      "price": "149.00",
-      "status": "3"
-    },
     "PIPO|36410|20260929|CLASSIC ROWS": {
       "venue": "PVR: Icon, The Pavillion Pune",
       "time": "11:35 PM",
@@ -293,6 +309,14 @@
       "time": "11:35 PM",
       "date": "20260929",
       "cat": "PRIME PLUS ROWS",
+      "price": "149.00",
+      "status": "3"
+    },
+    "PIPO|36410|20260929|PRIME ROWS": {
+      "venue": "PVR: Icon, The Pavillion Pune",
+      "time": "11:35 PM",
+      "date": "20260929",
+      "cat": "PRIME ROWS",
       "price": "149.00",
       "status": "3"
     },
@@ -376,14 +400,6 @@
       "price": "299.00",
       "status": "3"
     },
-    "PGHM|47626|20260929|PRIME ROWS": {
-      "venue": "PVR: Grand Highstreet Mall, Hinjawadi",
-      "time": "11:25 PM",
-      "date": "20260929",
-      "cat": "PRIME ROWS",
-      "price": "149.00",
-      "status": "3"
-    },
     "PGHM|47626|20260929|PRIME PLUS ROWS": {
       "venue": "PVR: Grand Highstreet Mall, Hinjawadi",
       "time": "11:25 PM",
@@ -397,6 +413,14 @@
       "time": "11:25 PM",
       "date": "20260929",
       "cat": "EXTRA LEGROOM ROWS",
+      "price": "149.00",
+      "status": "3"
+    },
+    "PGHM|47626|20260929|PRIME ROWS": {
+      "venue": "PVR: Grand Highstreet Mall, Hinjawadi",
+      "time": "11:25 PM",
+      "date": "20260929",
+      "cat": "PRIME ROWS",
       "price": "149.00",
       "status": "3"
     },
@@ -416,14 +440,6 @@
       "price": "199.00",
       "status": "3"
     },
-    "RHMN|98476|20260929|PRIME PLUS ROWS": {
-      "venue": "INOX: Royal Heritage Mall, NIBM Ext",
-      "time": "08:45 PM",
-      "date": "20260929",
-      "cat": "PRIME PLUS ROWS",
-      "price": "99.00",
-      "status": "3"
-    },
     "RHMN|98476|20260929|PRIME ROWS": {
       "venue": "INOX: Royal Heritage Mall, NIBM Ext",
       "time": "08:45 PM",
@@ -440,20 +456,20 @@
       "price": "99.00",
       "status": "3"
     },
+    "RHMN|98476|20260929|PRIME PLUS ROWS": {
+      "venue": "INOX: Royal Heritage Mall, NIBM Ext",
+      "time": "08:45 PM",
+      "date": "20260929",
+      "cat": "PRIME PLUS ROWS",
+      "price": "99.00",
+      "status": "3"
+    },
     "RHMN|98456|20260929|RECLINER ROWS": {
       "venue": "INOX: Royal Heritage Mall, NIBM Ext",
       "time": "11:15 PM",
       "date": "20260929",
       "cat": "RECLINER ROWS",
       "price": "199.00",
-      "status": "3"
-    },
-    "RHMN|98456|20260929|PRIME ROWS": {
-      "venue": "INOX: Royal Heritage Mall, NIBM Ext",
-      "time": "11:15 PM",
-      "date": "20260929",
-      "cat": "PRIME ROWS",
-      "price": "99.00",
       "status": "3"
     },
     "RHMN|98456|20260929|CLASSIC ROWS": {
@@ -471,6 +487,14 @@
       "cat": "PRIME PLUS ROWS",
       "price": "99.00",
       "status": "2"
+    },
+    "RHMN|98456|20260929|PRIME ROWS": {
+      "venue": "INOX: Royal Heritage Mall, NIBM Ext",
+      "time": "11:15 PM",
+      "date": "20260929",
+      "cat": "PRIME ROWS",
+      "price": "99.00",
+      "status": "3"
     },
     "PDCP|35943|20260929|RECLINERS": {
       "venue": "PVR: Directors Cut, KOPA, Pune",
@@ -502,6 +526,30 @@
       "date": "20260929",
       "cat": "RECLINERS PRIME",
       "price": "399.00",
+      "status": "3"
+    },
+    "MKML|15146|20260929|MAX PREMIER": {
+      "venue": "MovieMax Gold: Mariplex Mall, Kalyani Nagar",
+      "time": "05:45 PM",
+      "date": "20260929",
+      "cat": "MAX PREMIER",
+      "price": "92.00",
+      "status": "3"
+    },
+    "MKML|15146|20260929|MAX PRIME": {
+      "venue": "MovieMax Gold: Mariplex Mall, Kalyani Nagar",
+      "time": "05:45 PM",
+      "date": "20260929",
+      "cat": "MAX PRIME",
+      "price": "92.00",
+      "status": "3"
+    },
+    "MKML|15146|20260929|RECLINER": {
+      "venue": "MovieMax Gold: Mariplex Mall, Kalyani Nagar",
+      "time": "05:45 PM",
+      "date": "20260929",
+      "cat": "RECLINER",
+      "price": "149.00",
       "status": "3"
     },
     "INPN|141745|20260929|PRIME PLUS ROWS": {
@@ -558,7 +606,7 @@
     "20260928": "AVAILABLE",
     "20260929": "BOOKABLE",
     "20260930": "AVAILABLE",
-    "20261001": "NOT_OPEN",
+    "20261001": "AVAILABLE",
     "20261002": "NOT_OPEN",
     "20261003": "NOT_OPEN"
   }
