@@ -1,18 +1,18 @@
 {
   "shows": {
-    "PMPW|73473|20260929|CLASSIC PLUS ROWS": {
-      "venue": "INOX Megaplex Phoenix Mall of the Millennium Wakad",
-      "time": "04:20 PM",
-      "date": "20260929",
-      "cat": "CLASSIC PLUS ROWS",
-      "price": "149.00",
-      "status": "3"
-    },
     "PMPW|73473|20260929|PRIME ROWS": {
       "venue": "INOX Megaplex Phoenix Mall of the Millennium Wakad",
       "time": "04:20 PM",
       "date": "20260929",
       "cat": "PRIME ROWS",
+      "price": "149.00",
+      "status": "3"
+    },
+    "PMPW|73473|20260929|CLASSIC PLUS ROWS": {
+      "venue": "INOX Megaplex Phoenix Mall of the Millennium Wakad",
+      "time": "04:20 PM",
+      "date": "20260929",
+      "cat": "CLASSIC PLUS ROWS",
       "price": "149.00",
       "status": "3"
     },
@@ -38,7 +38,7 @@
       "date": "20260929",
       "cat": "PRIME ROWS",
       "price": "149.00",
-      "status": "3"
+      "status": "2"
     },
     "PMPW|73475|20260929|CLASSIC ROWS": {
       "venue": "INOX Megaplex Phoenix Mall of the Millennium Wakad",
@@ -88,6 +88,14 @@
       "price": "199.00",
       "status": "3"
     },
+    "PCMZ|46292|20260929|CLASSIC PLUS ROWS": {
+      "venue": "PVR: Phoenix Market City, Pune",
+      "time": "09:00 AM",
+      "date": "20260929",
+      "cat": "CLASSIC PLUS ROWS",
+      "price": "99.00",
+      "status": "3"
+    },
     "PCMZ|46292|20260929|PRIME ROWS": {
       "venue": "PVR: Phoenix Market City, Pune",
       "time": "09:00 AM",
@@ -101,14 +109,6 @@
       "time": "09:00 AM",
       "date": "20260929",
       "cat": "CLASSIC ROWS",
-      "price": "99.00",
-      "status": "3"
-    },
-    "PCMZ|46292|20260929|CLASSIC PLUS ROWS": {
-      "venue": "PVR: Phoenix Market City, Pune",
-      "time": "09:00 AM",
-      "date": "20260929",
-      "cat": "CLASSIC PLUS ROWS",
       "price": "99.00",
       "status": "3"
     },
@@ -360,14 +360,6 @@
       "price": "199.00",
       "status": "3"
     },
-    "PGHM|47623|20260929|CLASSIC ROWS": {
-      "venue": "PVR: Grand Highstreet Mall, Hinjawadi",
-      "time": "03:00 PM",
-      "date": "20260929",
-      "cat": "CLASSIC ROWS",
-      "price": "99.00",
-      "status": "3"
-    },
     "PGHM|47623|20260929|PRIME PLUS ROWS": {
       "venue": "PVR: Grand Highstreet Mall, Hinjawadi",
       "time": "03:00 PM",
@@ -389,6 +381,14 @@
       "time": "03:00 PM",
       "date": "20260929",
       "cat": "PRIME ROWS",
+      "price": "99.00",
+      "status": "3"
+    },
+    "PGHM|47623|20260929|CLASSIC ROWS": {
+      "venue": "PVR: Grand Highstreet Mall, Hinjawadi",
+      "time": "03:00 PM",
+      "date": "20260929",
+      "cat": "CLASSIC ROWS",
       "price": "99.00",
       "status": "3"
     },
@@ -440,14 +440,6 @@
       "price": "199.00",
       "status": "3"
     },
-    "RHMN|98476|20260929|PRIME ROWS": {
-      "venue": "INOX: Royal Heritage Mall, NIBM Ext",
-      "time": "08:45 PM",
-      "date": "20260929",
-      "cat": "PRIME ROWS",
-      "price": "99.00",
-      "status": "3"
-    },
     "RHMN|98476|20260929|CLASSIC ROWS": {
       "venue": "INOX: Royal Heritage Mall, NIBM Ext",
       "time": "08:45 PM",
@@ -461,6 +453,14 @@
       "time": "08:45 PM",
       "date": "20260929",
       "cat": "PRIME PLUS ROWS",
+      "price": "99.00",
+      "status": "3"
+    },
+    "RHMN|98476|20260929|PRIME ROWS": {
+      "venue": "INOX: Royal Heritage Mall, NIBM Ext",
+      "time": "08:45 PM",
+      "date": "20260929",
+      "cat": "PRIME ROWS",
       "price": "99.00",
       "status": "3"
     },
@@ -486,7 +486,7 @@
       "date": "20260929",
       "cat": "PRIME PLUS ROWS",
       "price": "99.00",
-      "status": "2"
+      "status": "3"
     },
     "RHMN|98456|20260929|PRIME ROWS": {
       "venue": "INOX: Royal Heritage Mall, NIBM Ext",
@@ -496,7 +496,7 @@
       "price": "99.00",
       "status": "3"
     },
-    "PDCP|35943|20260929|RECLINERS": {
+    "PDCP|35984|20260929|RECLINERS": {
       "venue": "PVR: Directors Cut, KOPA, Pune",
       "time": "01:50 PM",
       "date": "20260929",
@@ -504,9 +504,17 @@
       "price": "399.00",
       "status": "3"
     },
-    "PDCP|35943|20260929|RECLINERS PRIME": {
+    "PDCP|35984|20260929|RECLINERS PRIME": {
       "venue": "PVR: Directors Cut, KOPA, Pune",
       "time": "01:50 PM",
+      "date": "20260929",
+      "cat": "RECLINERS PRIME",
+      "price": "399.00",
+      "status": "3"
+    },
+    "PDCP|35928|20260929|RECLINERS PRIME": {
+      "venue": "PVR: Directors Cut, KOPA, Pune",
+      "time": "11:15 PM",
       "date": "20260929",
       "cat": "RECLINERS PRIME",
       "price": "399.00",
@@ -517,14 +525,6 @@
       "time": "11:15 PM",
       "date": "20260929",
       "cat": "RECLINERS",
-      "price": "399.00",
-      "status": "3"
-    },
-    "PDCP|35928|20260929|RECLINERS PRIME": {
-      "venue": "PVR: Directors Cut, KOPA, Pune",
-      "time": "11:15 PM",
-      "date": "20260929",
-      "cat": "RECLINERS PRIME",
       "price": "399.00",
       "status": "3"
     },
