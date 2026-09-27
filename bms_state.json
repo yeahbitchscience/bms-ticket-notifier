@@ -117,7 +117,7 @@
       "time": "04:35 PM",
       "date": "20260929",
       "cat": "ROYAL RECLINER ROWS",
-      "price": "630.00",
+      "price": "399.00",
       "status": "3"
     },
     "PCMZ|46279|20260929|EXECUTIVE RECL ROWS": {
@@ -125,7 +125,7 @@
       "time": "04:35 PM",
       "date": "20260929",
       "cat": "EXECUTIVE RECL ROWS",
-      "price": "580.00",
+      "price": "399.00",
       "status": "3"
     },
     "PCMZ|46256|20260929|PRIME PLUS ROWS": {
@@ -360,22 +360,6 @@
       "price": "199.00",
       "status": "3"
     },
-    "PGHM|47623|20260929|PRIME PLUS ROWS": {
-      "venue": "PVR: Grand Highstreet Mall, Hinjawadi",
-      "time": "03:00 PM",
-      "date": "20260929",
-      "cat": "PRIME PLUS ROWS",
-      "price": "99.00",
-      "status": "3"
-    },
-    "PGHM|47623|20260929|EXTRA LEGROOM ROWS": {
-      "venue": "PVR: Grand Highstreet Mall, Hinjawadi",
-      "time": "03:00 PM",
-      "date": "20260929",
-      "cat": "EXTRA LEGROOM ROWS",
-      "price": "99.00",
-      "status": "3"
-    },
     "PGHM|47623|20260929|PRIME ROWS": {
       "venue": "PVR: Grand Highstreet Mall, Hinjawadi",
       "time": "03:00 PM",
@@ -392,12 +376,36 @@
       "price": "99.00",
       "status": "3"
     },
+    "PGHM|47623|20260929|PRIME PLUS ROWS": {
+      "venue": "PVR: Grand Highstreet Mall, Hinjawadi",
+      "time": "03:00 PM",
+      "date": "20260929",
+      "cat": "PRIME PLUS ROWS",
+      "price": "99.00",
+      "status": "3"
+    },
+    "PGHM|47623|20260929|EXTRA LEGROOM ROWS": {
+      "venue": "PVR: Grand Highstreet Mall, Hinjawadi",
+      "time": "03:00 PM",
+      "date": "20260929",
+      "cat": "EXTRA LEGROOM ROWS",
+      "price": "99.00",
+      "status": "3"
+    },
     "PGHM|47626|20260929|RECLINER ROWS": {
       "venue": "PVR: Grand Highstreet Mall, Hinjawadi",
       "time": "11:25 PM",
       "date": "20260929",
       "cat": "RECLINER ROWS",
       "price": "299.00",
+      "status": "3"
+    },
+    "PGHM|47626|20260929|PRIME ROWS": {
+      "venue": "PVR: Grand Highstreet Mall, Hinjawadi",
+      "time": "11:25 PM",
+      "date": "20260929",
+      "cat": "PRIME ROWS",
+      "price": "149.00",
       "status": "3"
     },
     "PGHM|47626|20260929|PRIME PLUS ROWS": {
@@ -413,14 +421,6 @@
       "time": "11:25 PM",
       "date": "20260929",
       "cat": "EXTRA LEGROOM ROWS",
-      "price": "149.00",
-      "status": "3"
-    },
-    "PGHM|47626|20260929|PRIME ROWS": {
-      "venue": "PVR: Grand Highstreet Mall, Hinjawadi",
-      "time": "11:25 PM",
-      "date": "20260929",
-      "cat": "PRIME ROWS",
       "price": "149.00",
       "status": "3"
     },
@@ -440,6 +440,14 @@
       "price": "199.00",
       "status": "3"
     },
+    "RHMN|98476|20260929|PRIME ROWS": {
+      "venue": "INOX: Royal Heritage Mall, NIBM Ext",
+      "time": "08:45 PM",
+      "date": "20260929",
+      "cat": "PRIME ROWS",
+      "price": "99.00",
+      "status": "3"
+    },
     "RHMN|98476|20260929|CLASSIC ROWS": {
       "venue": "INOX: Royal Heritage Mall, NIBM Ext",
       "time": "08:45 PM",
@@ -453,14 +461,6 @@
       "time": "08:45 PM",
       "date": "20260929",
       "cat": "PRIME PLUS ROWS",
-      "price": "99.00",
-      "status": "3"
-    },
-    "RHMN|98476|20260929|PRIME ROWS": {
-      "venue": "INOX: Royal Heritage Mall, NIBM Ext",
-      "time": "08:45 PM",
-      "date": "20260929",
-      "cat": "PRIME ROWS",
       "price": "99.00",
       "status": "3"
     },
@@ -512,19 +512,19 @@
       "price": "399.00",
       "status": "3"
     },
-    "PDCP|35928|20260929|RECLINERS PRIME": {
-      "venue": "PVR: Directors Cut, KOPA, Pune",
-      "time": "11:15 PM",
-      "date": "20260929",
-      "cat": "RECLINERS PRIME",
-      "price": "399.00",
-      "status": "3"
-    },
     "PDCP|35928|20260929|RECLINERS": {
       "venue": "PVR: Directors Cut, KOPA, Pune",
       "time": "11:15 PM",
       "date": "20260929",
       "cat": "RECLINERS",
+      "price": "399.00",
+      "status": "3"
+    },
+    "PDCP|35928|20260929|RECLINERS PRIME": {
+      "venue": "PVR: Directors Cut, KOPA, Pune",
+      "time": "11:15 PM",
+      "date": "20260929",
+      "cat": "RECLINERS PRIME",
       "price": "399.00",
       "status": "3"
     },
@@ -552,14 +552,6 @@
       "price": "149.00",
       "status": "3"
     },
-    "INPN|141745|20260929|PRIME PLUS ROWS": {
-      "venue": "INOX: Bund Garden Road",
-      "time": "09:10 AM",
-      "date": "20260929",
-      "cat": "PRIME PLUS ROWS",
-      "price": "99.00",
-      "status": "3"
-    },
     "INPN|141745|20260929|PRIME ROWS": {
       "venue": "INOX: Bund Garden Road",
       "time": "09:10 AM",
@@ -576,9 +568,9 @@
       "price": "99.00",
       "status": "3"
     },
-    "INPN|141771|20260929|PRIME PLUS ROWS": {
+    "INPN|141745|20260929|PRIME PLUS ROWS": {
       "venue": "INOX: Bund Garden Road",
-      "time": "11:00 PM",
+      "time": "09:10 AM",
       "date": "20260929",
       "cat": "PRIME PLUS ROWS",
       "price": "99.00",
@@ -599,15 +591,23 @@
       "cat": "CLASSIC ROWS",
       "price": "99.00",
       "status": "3"
+    },
+    "INPN|141771|20260929|PRIME PLUS ROWS": {
+      "venue": "INOX: Bund Garden Road",
+      "time": "11:00 PM",
+      "date": "20260929",
+      "cat": "PRIME PLUS ROWS",
+      "price": "99.00",
+      "status": "3"
     }
   },
   "dates": {
-    "20260927": "AVAILABLE",
     "20260928": "AVAILABLE",
     "20260929": "BOOKABLE",
     "20260930": "AVAILABLE",
     "20261001": "AVAILABLE",
     "20261002": "NOT_OPEN",
-    "20261003": "NOT_OPEN"
+    "20261003": "NOT_OPEN",
+    "20261004": "NOT_OPEN"
   }
 }
