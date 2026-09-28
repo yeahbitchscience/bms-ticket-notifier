@@ -24,14 +24,6 @@
       "price": "99.00",
       "status": "3"
     },
-    "PMPW|73475|20260929|CLASSIC PLUS ROWS": {
-      "venue": "INOX Megaplex Phoenix Mall of the Millennium Wakad",
-      "time": "08:50 PM",
-      "date": "20260929",
-      "cat": "CLASSIC PLUS ROWS",
-      "price": "149.00",
-      "status": "3"
-    },
     "PMPW|73475|20260929|PRIME ROWS": {
       "venue": "INOX Megaplex Phoenix Mall of the Millennium Wakad",
       "time": "08:50 PM",
@@ -39,6 +31,14 @@
       "cat": "PRIME ROWS",
       "price": "149.00",
       "status": "2"
+    },
+    "PMPW|73475|20260929|CLASSIC PLUS ROWS": {
+      "venue": "INOX Megaplex Phoenix Mall of the Millennium Wakad",
+      "time": "08:50 PM",
+      "date": "20260929",
+      "cat": "CLASSIC PLUS ROWS",
+      "price": "149.00",
+      "status": "3"
     },
     "PMPW|73475|20260929|CLASSIC ROWS": {
       "venue": "INOX Megaplex Phoenix Mall of the Millennium Wakad",
@@ -48,19 +48,19 @@
       "price": "99.00",
       "status": "3"
     },
-    "PMPW|73469|20260929|PRIME ROWS": {
-      "venue": "INOX Megaplex Phoenix Mall of the Millennium Wakad",
-      "time": "11:55 PM",
-      "date": "20260929",
-      "cat": "PRIME ROWS",
-      "price": "149.00",
-      "status": "3"
-    },
     "PMPW|73469|20260929|CLASSIC PLUS ROWS": {
       "venue": "INOX Megaplex Phoenix Mall of the Millennium Wakad",
       "time": "11:55 PM",
       "date": "20260929",
       "cat": "CLASSIC PLUS ROWS",
+      "price": "149.00",
+      "status": "3"
+    },
+    "PMPW|73469|20260929|PRIME ROWS": {
+      "venue": "INOX Megaplex Phoenix Mall of the Millennium Wakad",
+      "time": "11:55 PM",
+      "date": "20260929",
+      "cat": "PRIME ROWS",
       "price": "149.00",
       "status": "3"
     },
@@ -88,6 +88,14 @@
       "price": "199.00",
       "status": "3"
     },
+    "PCMZ|46292|20260929|CLASSIC PLUS ROWS": {
+      "venue": "PVR: Phoenix Market City, Pune",
+      "time": "09:00 AM",
+      "date": "20260929",
+      "cat": "CLASSIC PLUS ROWS",
+      "price": "99.00",
+      "status": "3"
+    },
     "PCMZ|46292|20260929|PRIME ROWS": {
       "venue": "PVR: Phoenix Market City, Pune",
       "time": "09:00 AM",
@@ -101,14 +109,6 @@
       "time": "09:00 AM",
       "date": "20260929",
       "cat": "CLASSIC ROWS",
-      "price": "99.00",
-      "status": "3"
-    },
-    "PCMZ|46292|20260929|CLASSIC PLUS ROWS": {
-      "venue": "PVR: Phoenix Market City, Pune",
-      "time": "09:00 AM",
-      "date": "20260929",
-      "cat": "CLASSIC PLUS ROWS",
       "price": "99.00",
       "status": "3"
     },
@@ -136,14 +136,6 @@
       "price": "199.00",
       "status": "3"
     },
-    "PCMZ|46256|20260929|CLASSIC PLUS ROWS": {
-      "venue": "PVR: Phoenix Market City, Pune",
-      "time": "11:40 PM",
-      "date": "20260929",
-      "cat": "CLASSIC PLUS ROWS",
-      "price": "99.00",
-      "status": "3"
-    },
     "PCMZ|46256|20260929|PRIME ROWS": {
       "venue": "PVR: Phoenix Market City, Pune",
       "time": "11:40 PM",
@@ -157,6 +149,14 @@
       "time": "11:40 PM",
       "date": "20260929",
       "cat": "CLASSIC ROWS",
+      "price": "99.00",
+      "status": "3"
+    },
+    "PCMZ|46256|20260929|CLASSIC PLUS ROWS": {
+      "venue": "PVR: Phoenix Market City, Pune",
+      "time": "11:40 PM",
+      "date": "20260929",
+      "cat": "CLASSIC PLUS ROWS",
       "price": "99.00",
       "status": "3"
     },
@@ -360,6 +360,14 @@
       "price": "199.00",
       "status": "3"
     },
+    "PGHM|47623|20260929|EXTRA LEGROOM ROWS": {
+      "venue": "PVR: Grand Highstreet Mall, Hinjawadi",
+      "time": "03:00 PM",
+      "date": "20260929",
+      "cat": "EXTRA LEGROOM ROWS",
+      "price": "99.00",
+      "status": "3"
+    },
     "PGHM|47623|20260929|PRIME ROWS": {
       "venue": "PVR: Grand Highstreet Mall, Hinjawadi",
       "time": "03:00 PM",
@@ -381,14 +389,6 @@
       "time": "03:00 PM",
       "date": "20260929",
       "cat": "PRIME PLUS ROWS",
-      "price": "99.00",
-      "status": "3"
-    },
-    "PGHM|47623|20260929|EXTRA LEGROOM ROWS": {
-      "venue": "PVR: Grand Highstreet Mall, Hinjawadi",
-      "time": "03:00 PM",
-      "date": "20260929",
-      "cat": "EXTRA LEGROOM ROWS",
       "price": "99.00",
       "status": "3"
     },
@@ -472,6 +472,14 @@
       "price": "199.00",
       "status": "3"
     },
+    "RHMN|98456|20260929|CLASSIC ROWS": {
+      "venue": "INOX: Royal Heritage Mall, NIBM Ext",
+      "time": "11:15 PM",
+      "date": "20260929",
+      "cat": "CLASSIC ROWS",
+      "price": "99.00",
+      "status": "3"
+    },
     "RHMN|98456|20260929|PRIME PLUS ROWS": {
       "venue": "INOX: Royal Heritage Mall, NIBM Ext",
       "time": "11:15 PM",
@@ -485,14 +493,6 @@
       "time": "11:15 PM",
       "date": "20260929",
       "cat": "PRIME ROWS",
-      "price": "99.00",
-      "status": "3"
-    },
-    "RHMN|98456|20260929|CLASSIC ROWS": {
-      "venue": "INOX: Royal Heritage Mall, NIBM Ext",
-      "time": "11:15 PM",
-      "date": "20260929",
-      "cat": "CLASSIC ROWS",
       "price": "99.00",
       "status": "3"
     },
